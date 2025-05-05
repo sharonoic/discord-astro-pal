@@ -1,5 +1,5 @@
 # AstroPal 🌌
-A Discord bot that helps users explore real-time astronomical data — including planet visibility, moon phases, and more — based on city input.
+A Discord bot that helps users explore real-time astronomical data, including planet visibility, moon phases, and more, based on city input.
 
 ## Features
 
